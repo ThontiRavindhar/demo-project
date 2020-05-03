@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  title = 'Products';
+  title = 'Product Catalogue';
+  
+  /* 
+  onEverySec() {
+    console.log("second");
+  }
+
+  onEveryFiveSecs() {
+    console.log("Five Secs");
+  }
+  */
+
 }
